@@ -1,7 +1,9 @@
 # HR_Attrition_Report
 Project Overview
 The HR Attrition Dashboard is an interactive Power BI dashboard designed to analyze employees. 
-The dashboard provides insights into attrition trends across departments, job roles, age groups, gender, income levels, and other employee-related factors.
+The dashboard provides insights into attrition trends across departments, job roles, age groups, gender, income levels, and other employee-related factors. Prepared 2 pages dashboard by using Overview page - it show overall overview of report is about and Deep Dive shows deep information about the company. 
+<img width="938" height="524" alt="Screenshot 2026-10-01 231654" src="https://github.com/user-attachments/assets/68675d4b-04c5-4929-9335-40c0e04ef07d" />
+<img width="941" height="509" alt="Screenshot 2026-10-01 231710" src="https://github.com/user-attachments/assets/613a648f-72a7-4e6e-a3b3-c64d0e9dc184" />
 
 **This project uses Microsoft Fabric**
 The process includes:
